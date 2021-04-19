@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geefi-23
-- 👀 I’m interested in lern
+- 👀 I’m interested in learn
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
